@@ -1,0 +1,2522 @@
+[
+  {
+    "id": 1,
+    "nome": "Patrícia Lima",
+    "foto": "./images/foto1.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 2,
+    "nome": "Leonardo Almeida",
+    "foto": "./images/foto2.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia da Informação",
+    "habilidadesTecnicas": ["Python", "SQL", "Docker", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de tecnologia da informação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 2",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de tecnologia da informação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 3,
+    "nome": "Camila Silva",
+    "foto": "./images/foto3.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 3",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 4,
+    "nome": "Paula Almeida",
+    "foto": "./images/foto4.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": ["Power BI", "Excel", "Python"],
+    "softSkills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de análise de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 4",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de análise de dados."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 5,
+    "nome": "Juliana Dias",
+    "foto": "./images/foto5.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 5",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Souza",
+    "foto": "./images/foto6.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 6",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 7,
+    "nome": "Pedro Moraes",
+    "foto": "./images/foto7.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 7",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 8,
+    "nome": "Felipe Bezerra",
+    "foto": "./images/foto8.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 8",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 9,
+    "nome": "João Moraes",
+    "foto": "./images/foto9.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 9",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 10,
+    "nome": "Marlon Cardoso",
+    "foto": "./images/foto10.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Tecnologia da Informação",
+    "habilidadesTecnicas": ["Python", "SQL", "Docker", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de tecnologia da informação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 10",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de tecnologia da informação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 11,
+    "nome": "Carolina Souza",
+    "foto": "./images/foto11.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 11",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 12,
+    "nome": "Victor Cardoso",
+    "foto": "./images/foto12.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 12",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 13,
+    "nome": "Ana Dias",
+    "foto": "./images/foto13.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 13",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 14,
+    "nome": "Renato Dias",
+    "foto": "./images/foto14.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 14",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 15,
+    "nome": "Tatiana Correia",
+    "foto": "./images/foto15.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional atuante na área de logística, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Logística",
+    "habilidadesTecnicas": ["Roteirização", "ERP Logístico"],
+    "softSkills": ["Resolução de problemas", "Agilidade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Logística",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 15",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de logística."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 16,
+    "nome": "Rogério Castro",
+    "foto": "./images/foto16.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 16",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 17,
+    "nome": "Camila Ramos",
+    "foto": "./images/foto17.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Tecnologia da Informação",
+    "habilidadesTecnicas": ["Python", "SQL", "Docker", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de tecnologia da informação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 17",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de tecnologia da informação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 18,
+    "nome": "Victor Barbosa",
+    "foto": "./images/foto18.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 18",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 19,
+    "nome": "Rafael Gomes",
+    "foto": "./images/foto19.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": ["Power BI", "Excel", "Python"],
+    "softSkills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de análise de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 19",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de análise de dados."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 20,
+    "nome": "Beatriz Moraes",
+    "foto": "./images/foto20.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 20",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 21,
+    "nome": "Juliana Silva",
+    "foto": "./images/foto21.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 21",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 22,
+    "nome": "Danilo Pereira",
+    "foto": "./images/foto22.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 22",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 23,
+    "nome": "Marcelo Gomes",
+    "foto": "./images/foto23.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 23",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 24,
+    "nome": "Letícia Correia",
+    "foto": "./images/foto24.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 24",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 25,
+    "nome": "Juliana Pereira",
+    "foto": "./images/foto25.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 25",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 26,
+    "nome": "Beatriz Martins",
+    "foto": "./images/foto26.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 26",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 27,
+    "nome": "Ana Castro",
+    "foto": "./images/foto27.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional atuante na área de logística, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Logística",
+    "habilidadesTecnicas": ["Roteirização", "ERP Logístico"],
+    "softSkills": ["Resolução de problemas", "Agilidade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Logística",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 27",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de logística."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 28,
+    "nome": "Marcelo Freitas",
+    "foto": "./images/foto28.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional atuante na área de logística, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Logística",
+    "habilidadesTecnicas": ["Roteirização", "ERP Logístico"],
+    "softSkills": ["Resolução de problemas", "Agilidade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Logística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 28",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de logística."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 29,
+    "nome": "Gabriel Barbosa",
+    "foto": "./images/foto29.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 29",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 30,
+    "nome": "Bruno Moraes",
+    "foto": "./images/foto30.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Tecnologia da Informação",
+    "habilidadesTecnicas": ["Python", "SQL", "Docker", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de tecnologia da informação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 30",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de tecnologia da informação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 31,
+    "nome": "Camila Cardoso",
+    "foto": "./images/foto31.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 31",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 32,
+    "nome": "Patrícia Pereira",
+    "foto": "./images/foto32.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 32",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 33,
+    "nome": "Leonardo Pereira",
+    "foto": "./images/foto33.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": ["Power BI", "Excel", "Python"],
+    "softSkills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de análise de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 33",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de análise de dados."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 34,
+    "nome": "André Ramos",
+    "foto": "./images/foto34.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 34",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 35,
+    "nome": "Bruno Barbosa",
+    "foto": "./images/foto35.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional atuante na área de design, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "HTML/CSS"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de design."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 35",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de design."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 36,
+    "nome": "Helena Correia",
+    "foto": "./images/foto36.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 36",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 37,
+    "nome": "Ricardo Almeida",
+    "foto": "./images/foto37.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": ["Power BI", "Excel", "Python"],
+    "softSkills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de análise de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 37",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de análise de dados."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 38,
+    "nome": "Viviane Castro",
+    "foto": "./images/foto38.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 38",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 39,
+    "nome": "Viviane Martins",
+    "foto": "./images/foto39.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 39",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 40,
+    "nome": "Viviane Dias",
+    "foto": "./images/foto40.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": ["Power BI", "Excel", "Python"],
+    "softSkills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de análise de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 40",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de análise de dados."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 41,
+    "nome": "Letícia Lima",
+    "foto": "./images/foto41.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional atuante na área de design, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "HTML/CSS"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de design."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 41",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de design."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 42,
+    "nome": "Daniel Bezerra",
+    "foto": "./images/foto42.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 42",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 43,
+    "nome": "Victor Silva",
+    "foto": "./images/foto43.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional atuante na área de design, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "HTML/CSS"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de design."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 43",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de design."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 44,
+    "nome": "Marlon Cardoso",
+    "foto": "./images/foto44.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 44",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 45,
+    "nome": "Sofia Ramos",
+    "foto": "./images/foto45.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 45",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 46,
+    "nome": "Carolina Monteiro",
+    "foto": "./images/foto46.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Delta",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 46",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 47,
+    "nome": "Thiago Moraes",
+    "foto": "./images/foto47.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 47",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 48,
+    "nome": "Renato Lima",
+    "foto": "./images/foto48.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 48",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 49,
+    "nome": "Gabriel Bezerra",
+    "foto": "./images/foto49.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 49",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 50,
+    "nome": "Pedro Farias",
+    "foto": "./images/foto50.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional atuante na área de marketing, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 50",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de marketing."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 51,
+    "nome": "Danilo Correia",
+    "foto": "./images/foto51.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 51",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 52,
+    "nome": "Rogério Cardoso",
+    "foto": "./images/foto52.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional atuante na área de finanças, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Modelagem financeira"],
+    "softSkills": ["Atenção a detalhes", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de finanças."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Finanças",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 52",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de finanças."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 53,
+    "nome": "Patrícia Cardoso",
+    "foto": "./images/foto53.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional atuante na área de recursos humanos, com experiência prática e foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Recrutamento", "Entrevistas estruturadas"],
+    "softSkills": ["Comunicação assertiva", "Relacionamento interpessoal"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Analista de RH",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de recursos humanos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 53",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de recursos humanos."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 54,
+    "nome": "Gabriel Silva",
+    "foto": "./images/foto54.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional atuante na área de logística, com experiência prática e foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Logística",
+    "habilidadesTecnicas": ["Roteirização", "ERP Logístico"],
+    "softSkills": ["Resolução de problemas", "Agilidade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Logística",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 54",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de logística."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 55,
+    "nome": "Ricardo Rocha",
+    "foto": "./images/foto55.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 55",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 56,
+    "nome": "Igor Ramos",
+    "foto": "./images/foto56.jpg",
+    "cargo": "Professor",
+    "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Planejamento pedagógico", "Didática"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Professor",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de educação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 56",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de educação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 57,
+    "nome": "Patrícia Lima",
+    "foto": "./images/foto57.jpg",
+    "cargo": "Médico Clínico",
+    "resumo": "Profissional atuante na área de saúde, com experiência prática e foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Atendimento clínico", "Prontuário eletrônico"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "Médico Clínico",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de saúde."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Saúde",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 57",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de saúde."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 58,
+    "nome": "Carla Silva",
+    "foto": "./images/foto58.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia Civil",
+    "habilidadesTecnicas": ["AutoCAD", "Revit", "MS Project"],
+    "softSkills": ["Liderança", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Gama",
+        "cargo": "Engenheiro Civil",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de engenharia civil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 58",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de engenharia civil."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 59,
+    "nome": "Paula Dias",
+    "foto": "./images/foto59.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional atuante na área de design, com experiência prática e foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "HTML/CSS"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Beta",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de design."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "UNESP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 59",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de design."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  },
+  {
+    "id": 60,
+    "nome": "Clara Bezerra",
+    "foto": "./images/foto60.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia da Informação",
+    "habilidadesTecnicas": ["Python", "SQL", "Docker", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Alpha",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "2024-10",
+        "descricao": "Atuação direta em atividades da área de tecnologia da informação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 60",
+        "link": "https://example.com",
+        "descricao": "Projeto desenvolvido na área de tecnologia da informação."
+      }
+    ],
+    "certificacoes": ["Certificação Profissional"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Tecnologia", "Inovação", "Desenvolvimento profissional"]
+  }
+]
