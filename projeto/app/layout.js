@@ -1,7 +1,26 @@
+"use client"; 
+import "./globals.css";
+import { useState, useEffect } from "react";
+import Header from "./Components/Header";
+
 export default function RootLayout({ children }) {
+  const [isDark, setIsDark] = useState(false);
+
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", isDark);
+  }, [isDark]);
+
   return (
     <html lang="pt-br">
-      <body>{children}</body>
+      <head>
+        <title>GS2Semestre</title>
+      </head>
+
+      <body className="bg-white text-black dark:bg-black dark:text-white">
+        <Header toggleDark={() => setIsDark(!isDark)} />
+
+        {children}
+      </body>
     </html>
   );
 }
