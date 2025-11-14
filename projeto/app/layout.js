@@ -2,7 +2,7 @@
 import "./globals.css";
 import { useState, useEffect } from "react";
 import Header from "./Components/Header";
-import Card from "./Components/Card";
+import ListaCards from "./Components/ListaCards";
 
 export default function RootLayout({ children }) {
   const [isDark, setIsDark] = useState(false);
@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         <Header toggleDark={() => setIsDark(!isDark)} />
         {children}
         <div className="flex justify-center items-center h-auto w-auto">
-          <Card />
+          <ListaCards/>
         </div>
       </body>
     </html>
