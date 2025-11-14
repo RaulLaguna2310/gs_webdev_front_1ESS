@@ -1,10 +1,12 @@
 "use client";
 import { useEffect, useState } from "react";
+import ModalPerfil from "./ModalPerfil";
 
 export default function Card() {
   const [perfis, setPerfis] = useState([]);
   const [erro, setErro] = useState(null);
   const [carregando, setCarregando] = useState(true);
+  const [perfilSelecionado, setPerfilSelecionado] = useState(null);
 
   useEffect(() => {
     async function carregar() {
@@ -59,7 +61,8 @@ export default function Card() {
       {perfis.map((p) => (
         <div
           key={p.id}
-          className="flex flex-col gap-3 h-auto p-4 rounded-xl shadow-lg bg-white transition-transform duration-300 ease-out hover:scale-105 hover:shadow-xl"
+          onClick={() => setPerfilSelecionado(p)}
+          className="flex flex-col gap-3 h-auto p-4 rounded-xl shadow-lg bg-white transition-transform duration-300 ease-out hover:scale-105 hover:shadow-xl cursor-pointer"
         >
           <div className="flex items-center gap-3">
             <img
@@ -96,6 +99,13 @@ export default function Card() {
           </div>
         </div>
       ))}
+
+      {perfilSelecionado && (
+        <ModalPerfil
+          perfil={perfilSelecionado}
+          onClose={() => setPerfilSelecionado(null)}
+        />
+      )}
     </>
   );
 }
