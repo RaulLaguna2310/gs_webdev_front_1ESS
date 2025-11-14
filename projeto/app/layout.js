@@ -1,7 +1,8 @@
-"use client"; 
+"use client";
 import "./globals.css";
 import { useState, useEffect } from "react";
 import Header from "./Components/Header";
+import Card from "./Components/Card";
 
 export default function RootLayout({ children }) {
   const [isDark, setIsDark] = useState(false);
@@ -18,8 +19,10 @@ export default function RootLayout({ children }) {
 
       <body className="bg-white text-black dark:bg-black dark:text-white">
         <Header toggleDark={() => setIsDark(!isDark)} />
-
         {children}
+        <div className="flex justify-center items-center h-auto w-auto">
+          <Card />
+        </div>
       </body>
     </html>
   );
