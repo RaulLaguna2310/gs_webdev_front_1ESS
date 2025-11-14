@@ -2,8 +2,6 @@
 import "./globals.css";
 import { useState, useEffect } from "react";
 import Header from "./Components/Header";
-import ListaCards from "./Components/ListaCards";
-import ModalPerfil from "./Components/ModalPerfil";
 
 export default function RootLayout({ children }) {
   const [isDark, setIsDark] = useState(false);
@@ -21,10 +19,6 @@ export default function RootLayout({ children }) {
       <body className="bg-white text-black dark:bg-black dark:text-white">
         <Header toggleDark={() => setIsDark(!isDark)} />
         {children}
-        <div className="flex justify-center items-center h-auto w-auto mb-5">
-          <ListaCards/>
-        </div>
-        <ModalPerfil/>
       </body>
     </html>
   );
