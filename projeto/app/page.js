@@ -5,7 +5,7 @@ import ModalPerfil from "./Components/ModalPerfil";
 export default function Home() {
   return (
     <>
-      {/* <BarraPesquisa/> */}
+      <BarraPesquisa/> 
       <div className="flex justify-center items-center h-auto w-auto mb-5">
         <ListaCards />
       </div>

@@ -44,7 +44,7 @@
   {
     "id": 2,
     "nome": "Leonardo Almeida",
-    "foto": "./images/foto2.jpg",
+    "foto": "/FotoLeonardo.jpg",
     "cargo": "Engenheiro de Software",
     "resumo": "Profissional atuante na área de tecnologia da informação, com experiência prática e foco em resultados.",
     "localizacao": "Belo Horizonte/MG",
@@ -86,7 +86,7 @@
   {
     "id": 3,
     "nome": "Camila Silva",
-    "foto": "./images/foto3.jpg",
+    "foto": "/FotoCamila.jpg",
     "cargo": "Engenheiro Civil",
     "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
     "localizacao": "Fortaleza/CE",
@@ -128,7 +128,7 @@
   {
     "id": 4,
     "nome": "Paula Almeida",
-    "foto": "./images/foto4.jpg",
+    "foto": "/PaulaAlmeida.jpg",
     "cargo": "Analista de Dados",
     "resumo": "Profissional atuante na área de análise de dados, com experiência prática e foco em resultados.",
     "localizacao": "Belo Horizonte/MG",
@@ -170,7 +170,7 @@
   {
     "id": 5,
     "nome": "Juliana Dias",
-    "foto": "./images/foto5.jpg",
+    "foto": "/Juliana.jpg",
     "cargo": "Engenheiro Civil",
     "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
     "localizacao": "Rio de Janeiro/RJ",
@@ -212,7 +212,7 @@
   {
     "id": 6,
     "nome": "Rafael Souza",
-    "foto": "./images/foto6.jpg",
+    "foto": "/Rafael.jpg",
     "cargo": "Engenheiro Civil",
     "resumo": "Profissional atuante na área de engenharia civil, com experiência prática e foco em resultados.",
     "localizacao": "Curitiba/PR",
@@ -254,7 +254,7 @@
   {
     "id": 7,
     "nome": "Pedro Moraes",
-    "foto": "./images/foto7.jpg",
+    "foto": "/Pedro.jpg",
     "cargo": "Professor",
     "resumo": "Profissional atuante na área de educação, com experiência prática e foco em resultados.",
     "localizacao": "São Paulo/SP",
