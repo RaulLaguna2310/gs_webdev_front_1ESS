@@ -8,8 +8,8 @@ https://github.com/RaulLaguna2310/gs_webdev_front_1ESS.git
 
 ## Instalação e Execução  
 ```sh
-git clone [INSIRA O LINK DO REPO AQUI]
-cd [NOME-DO-PROJETO]
+git clone https://github.com/RaulLaguna2310/gs_webdev_front_1ESS.git
+cd projeto
 npm i
 npm run dev
 ```
