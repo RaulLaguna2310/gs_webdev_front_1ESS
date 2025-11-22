@@ -1,7 +1,7 @@
 # GS02 - Web Development e Front End Design
 
 ## Deploy  
-[INSIRA O LINK DO DEPLOY AQUI]
+https://gs-webdev-front-1-ess.vercel.app/
 
 ## Repositório  
 https://github.com/RaulLaguna2310/gs_webdev_front_1ESS.git
